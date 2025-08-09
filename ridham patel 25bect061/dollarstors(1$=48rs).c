@@ -5,8 +5,8 @@
      float dollars,rupees;
      printf("Enter dollars:");
      scanf("%f",&dollars);
-     rupees = dollars * 45;
-     printf("%f * 45 = %f\n",dollars,rupees);
+     rupees = dollars * 48;
+     printf("%f * 48 = %f\n",dollars,rupees);
      return 0;
  }
 
