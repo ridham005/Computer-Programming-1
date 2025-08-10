@@ -10,4 +10,5 @@ int main()
     printf("value in Kb:%f\n",kb);
     printf("value in Mb:%f\n",mb);
     printf("value in Gb:%f\n",gb);
+    return 0;
 }
