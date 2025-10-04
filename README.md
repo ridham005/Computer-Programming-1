@@ -1,2 +1,1 @@
-This repository contains the code given in the collage assignment
-       
+This repository contains the code given in the collage assignmens
